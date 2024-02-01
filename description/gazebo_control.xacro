@@ -5,31 +5,31 @@
     <gazebo reference="chassis">
         <mu1>0.2</mu1>
         <mu2>0.2</mu2>
-        <material>Gazebo/Green</material>
+        <material>Gazebo/Silver</material>
     </gazebo>
 
     <gazebo reference="front_right_wheel">
         <mu1>0.2</mu1>
         <mu2>0.2</mu2>
-        <material>Gazebo/White</material>
+        <material>Gazebo/Orange</material>
     </gazebo>
 
     <gazebo reference="front_left_wheel">
         <mu1>0.2</mu1>
         <mu2>0.2</mu2>
-        <material>Gazebo/White</material>
+        <material>Gazebo/Orange</material>
     </gazebo>
 
     <gazebo reference="rear_right_wheel">
         <mu1>0.2</mu1>
         <mu2>0.2</mu2>
-        <material>Gazebo/White</material>
+        <material>Gazebo/Orange</material>
     </gazebo>
 
     <gazebo reference="rear_left_wheel">
         <mu1>0.2</mu1>
         <mu2>0.2</mu2>
-        <material>Gazebo/White</material>
+        <material>Gazebo/Orange</material>
     </gazebo>
 
 <!-- Controller for the 4-wheeled robot -->

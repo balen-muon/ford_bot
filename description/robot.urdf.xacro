@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="ford_robot">
 
-    <xacro:include filename="robot_core.xacro"/>
-    <!-- <xacro:include filename="$(find ford_bot)/description/test_robot.xacro"/> -->
+    <!-- <xacro:include filename="robot_core.xacro"/> -->
+    <xacro:include filename="mecabot.xacro"/>
     <xacro:include filename="lidar.xacro"/>
 
     <xacro:include filename="gazebo_control.xacro"/>
